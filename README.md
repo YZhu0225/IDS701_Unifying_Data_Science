@@ -1,7 +1,7 @@
 # IDS701_Unifying_Data_Science
 This is the repository for all the assignments and projects in IDS701: Unifying Data Science
 
-1. Paasive Prediction: [Crime and Policing Expenditures Descriptive Analysis]()
+1. Pasive Prediction: [Crime and Policing Expenditures Descriptive Analysis]()
 
 2. Potential Outcomes: [Making Potential Outcomes Concrete]()
 
