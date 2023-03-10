@@ -15,3 +15,6 @@ This is the repository for all the assignments and projects in IDS701: Unifying 
 5. Matching: [Impacts of college degree on earnings in the US](https://github.com/YZhu0225/IDS701_Unifying_Data_Science/tree/main/Matching)
 
 6. Diff-in-Diff: [Marijuana Legalization and Violent Crime](https://github.com/YZhu0225/IDS701_Unifying_Data_Science/tree/main/Diff-in-diff)
+
+7. Online A/B Testing: 
+    - [A/B Testing the Udacity Website](https://github.com/YZhu0225/IDS701_Unifying_Data_Science/tree/main/Online%20AB)
